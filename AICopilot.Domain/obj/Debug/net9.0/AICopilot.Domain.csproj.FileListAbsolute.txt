@@ -1,0 +1,11 @@
+F:\projects\AICopilotMVP\AICopilot.Domain\bin\Debug\net9.0\AICopilot.Domain.deps.json
+F:\projects\AICopilotMVP\AICopilot.Domain\bin\Debug\net9.0\AICopilot.Domain.dll
+F:\projects\AICopilotMVP\AICopilot.Domain\bin\Debug\net9.0\AICopilot.Domain.pdb
+F:\projects\AICopilotMVP\AICopilot.Domain\obj\Debug\net9.0\AICopilot.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\projects\AICopilotMVP\AICopilot.Domain\obj\Debug\net9.0\AICopilot.Domain.AssemblyInfoInputs.cache
+F:\projects\AICopilotMVP\AICopilot.Domain\obj\Debug\net9.0\AICopilot.Domain.AssemblyInfo.cs
+F:\projects\AICopilotMVP\AICopilot.Domain\obj\Debug\net9.0\AICopilot.Domain.csproj.CoreCompileInputs.cache
+F:\projects\AICopilotMVP\AICopilot.Domain\obj\Debug\net9.0\AICopilot.Domain.dll
+F:\projects\AICopilotMVP\AICopilot.Domain\obj\Debug\net9.0\refint\AICopilot.Domain.dll
+F:\projects\AICopilotMVP\AICopilot.Domain\obj\Debug\net9.0\AICopilot.Domain.pdb
+F:\projects\AICopilotMVP\AICopilot.Domain\obj\Debug\net9.0\ref\AICopilot.Domain.dll

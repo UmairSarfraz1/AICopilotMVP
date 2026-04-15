@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AICopilot.API", "AICopilot.API\AICopilot.API.csproj", "{670E6D64-C6EB-1284-EE17-3CEA843A067C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AICopilot.Application", "AICopilot.Application\AICopilot.Application.csproj", "{8A50A714-5996-7D86-4C00-52E3CA600CB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AICopilot.Infrastructure", "AICopilot.Infrastructure\AICopilot.Infrastructure.csproj", "{8ED1B248-3467-F6EF-B3CC-B524B50EDFAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AICopilot.Domain", "AICopilot.Domain\AICopilot.Domain.csproj", "{53EAE0EF-1C59-105C-EC1F-1428DA56CC9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{670E6D64-C6EB-1284-EE17-3CEA843A067C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{670E6D64-C6EB-1284-EE17-3CEA843A067C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{670E6D64-C6EB-1284-EE17-3CEA843A067C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{670E6D64-C6EB-1284-EE17-3CEA843A067C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A50A714-5996-7D86-4C00-52E3CA600CB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A50A714-5996-7D86-4C00-52E3CA600CB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A50A714-5996-7D86-4C00-52E3CA600CB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A50A714-5996-7D86-4C00-52E3CA600CB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8ED1B248-3467-F6EF-B3CC-B524B50EDFAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ED1B248-3467-F6EF-B3CC-B524B50EDFAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ED1B248-3467-F6EF-B3CC-B524B50EDFAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ED1B248-3467-F6EF-B3CC-B524B50EDFAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53EAE0EF-1C59-105C-EC1F-1428DA56CC9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53EAE0EF-1C59-105C-EC1F-1428DA56CC9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53EAE0EF-1C59-105C-EC1F-1428DA56CC9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53EAE0EF-1C59-105C-EC1F-1428DA56CC9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04F3DF63-9AFF-4AB1-B472-8958E2F4858E}
+	EndGlobalSection
+EndGlobal

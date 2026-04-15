@@ -1,0 +1,15 @@
+F:\projects\AICopilotMVP\AICopilot.Application\bin\Debug\net9.0\AICopilot.Application.deps.json
+F:\projects\AICopilotMVP\AICopilot.Application\bin\Debug\net9.0\AICopilot.Application.dll
+F:\projects\AICopilotMVP\AICopilot.Application\bin\Debug\net9.0\AICopilot.Application.pdb
+F:\projects\AICopilotMVP\AICopilot.Application\bin\Debug\net9.0\AICopilot.Domain.dll
+F:\projects\AICopilotMVP\AICopilot.Application\bin\Debug\net9.0\AICopilot.Domain.pdb
+F:\projects\AICopilotMVP\AICopilot.Application\obj\Debug\net9.0\AICopilot.Application.csproj.AssemblyReference.cache
+F:\projects\AICopilotMVP\AICopilot.Application\obj\Debug\net9.0\AICopilot.Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\projects\AICopilotMVP\AICopilot.Application\obj\Debug\net9.0\AICopilot.Application.AssemblyInfoInputs.cache
+F:\projects\AICopilotMVP\AICopilot.Application\obj\Debug\net9.0\AICopilot.Application.AssemblyInfo.cs
+F:\projects\AICopilotMVP\AICopilot.Application\obj\Debug\net9.0\AICopilot.Application.csproj.CoreCompileInputs.cache
+F:\projects\AICopilotMVP\AICopilot.Application\obj\Debug\net9.0\AICopilo.EA2427EC.Up2Date
+F:\projects\AICopilotMVP\AICopilot.Application\obj\Debug\net9.0\AICopilot.Application.dll
+F:\projects\AICopilotMVP\AICopilot.Application\obj\Debug\net9.0\refint\AICopilot.Application.dll
+F:\projects\AICopilotMVP\AICopilot.Application\obj\Debug\net9.0\AICopilot.Application.pdb
+F:\projects\AICopilotMVP\AICopilot.Application\obj\Debug\net9.0\ref\AICopilot.Application.dll
